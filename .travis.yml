@@ -22,7 +22,7 @@ before_script:
 # deploy:
 #   skip_cleanup: true # prevents travis from deleting the build
 #   provider: heroku
-#   app: YOUR-HEROKU-APP-NAME-HERE # see README
+#   app: fsa-deployment-practice # see README
 #   api_key:
-#     secure: YOUR-***ENCRYPTED***-API-KEY-HERE
-"test commit"
+#     secure: nyAEebXN7188+34aizUsy3Boo6+6rA8CplSoZW5gcy2KawZdH+OKXW1O6QZRPRvU1f7hhIH2f0NxuvtF/MFi0eDmihu3oAMqADWkAEET9WbP05r1pYa++zml8CmHlec9TkGdHbr8Z5W8MNd6Whprp2vsQRnE17WzQu2oXDoTI4HHUAkx3NudZ5sNpyU+3+ax6PKKtf2tdJYUsYBclgmUSGbJXv3WrhLbM7DbUMH8I89LUFy8S2nJPDl2ATzB54wjREOG8WvzZEvBf/e5stbtosP8ViN2ZrNhPs2aiUqNxOwsIlvaOz/UDkWpwOnTPc4GlyPd9kYYpm3X4VF/vMGQjyVtSPpp2TgAevK7VzW2fuS3y9xgMp4WiJosrG/8UrEDE3gsw8qVb1ZKuzCVi0bYDQAmC/EpLfi7kpR04FlQPTYxR4zcFMIvgoyAHE+15Oj6XYJ7/yrDhCjNDMI8kZibLTTbomc5wvDPzfFctvesjEzT3HUrv5k1vcOjZgQ80qOQJfKFTKVmtLaN408D0sD60e38UX9gAuGsGCk+rw3MlfthnRh4xi8PytiehblGDnkFyu4DP94EaFiAIOb3Jvx/A5Zcdpt7q6KAvb7g4AXAvK4wA0sFnYPyj/i3rP7jo2KYTop6dVf4W6ZytbmRFOus/DEG69cfoK1VT+/feUkdsf8=
+
